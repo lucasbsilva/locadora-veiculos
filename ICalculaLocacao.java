@@ -1,0 +1,3 @@
+interface ICalculaLocacao {
+    double calcularLocacao();
+}
